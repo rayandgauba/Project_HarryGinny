@@ -1,0 +1,39 @@
+body{
+    background-image: url("background.jpg");
+    background-size: fill;
+}
+
+.h3{
+    width: 100%;
+    margin:0px;
+    box-shadow: 5px 5px 18px grey;
+    font-size:30px !important;
+}
+
+.heading{
+    background-color: white ;
+    box-shadow:10px 10px 20px black;
+    border-radius: 10px;
+    float:none;
+    color:black;
+    padding:10px;
+}
+.object{
+    text-align: center;
+}
+
+.footer{
+    background-color: grey;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    text-align: center;
+    line-height: 3;
+    font-size: 20px;
+    color: whitesmoke;
+}
+
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+}
